@@ -1,4 +1,7 @@
 # 2a_Stop_and_Wait_Protocol
+NAME:DHANA LAKSHMI A
+
+REG NO:212223040033
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
